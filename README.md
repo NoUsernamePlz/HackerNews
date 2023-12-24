@@ -22,7 +22,7 @@ To view this project, follow these instructions:
 #### Clone the project:
 
 ```bash
-git clone https://github.com/your-username/HackersNews.git
+git clone https://github.com/NoUsernamePlz/HackerNews.git
 ```
 #### Install project dependencies:
 
