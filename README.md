@@ -13,9 +13,9 @@ HackersNews is a web application built using React.js, Tailwind CSS, and the Hac
 * Clicking on a blog postcard opens a new page with the corresponding blog details.
 ## Blog Details Page:
 
-*Stunning header with a background image.
-*Display of blog title, author name, date of creation, and points.
-*Comprehensive presentation of comments, including nested comments.
+* Stunning header with a background image.
+* Display of blog title, author name, date of creation, and points.
+* Comprehensive presentation of comments, including nested comments.
 ## Installation:
 To view this project, follow these instructions:
 
